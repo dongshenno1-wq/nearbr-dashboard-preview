@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "builtAt": "2026-11-26T03:59:45+00:00",
+  "builtAt": "2026-11-26T05:28:24+00:00",
   "demo": false,
   "sources": [
     {
@@ -2053,6 +2053,4255 @@
         "categories": null,
         "payments": null
       }
+    }
+  },
+  "dailyDetails": {
+    "self": {
+      "stores": [
+        {
+          "name": "马来21店莲花白沙罗",
+          "rawText": "📍地点：马来21店莲花白沙罗\nLocation：MY21\n\nDate :   23/11/2026\n天數 days completed：开业第55天（2026-09-30 起）\n\n业绩 Sales : Rm 492.90\n現金 Cash：Rm 83.00\n掃碼 QR：Rm 409.90\n刷卡 Card：Rm 0.00\n补货：09/30 来 1425件（白T 1；白T 2；白T 3；白T 4；白T 5；多维度包包；RK包包） + 10/01 来 1119件（物料） + 10/10 来 474件（白T） + 10/14 来 779件（二折男 双杆；二折男 单杆；3/70 单杆；2/80男 双杆；二折女 单杆；防晒 单杆；2/70男 单杆） + 10/19 来 485件（白T；速干） + 10/22 来 205件（DWD；RK） + 10/27 来 221件（速干） + 10/28 来 258件（白T） + 11/03 来 613件（白T 305、速干 308） + 11/05 来 301件（店铺物料 301）\n退货：10/15 退 322件（撤场多维度；撤场RK） + 10/24 退 348件（退回部分速干） + 11/03 退 19件\n\n👕白T White T\n业绩 Sales : Rm 119.90\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 119.90\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 7\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 767 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 163.00\n現金 Cash：Rm 83.00\n掃碼 QR：Rm 80.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 4\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 736 *\n\n💼包 Polo DWD\n业绩 Sales : Rm 210.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 210.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 1\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 115 *",
+          "sales": 492.9,
+          "orders": 5,
+          "atv": 98.58,
+          "salesChange": -0.3782683124605821,
+          "lastWeekAverage": 792.7857142857143,
+          "pieces": 12,
+          "payments": {
+            "Cash": 83.0,
+            "QR": 409.9,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 119.9,
+              "pieces": 7,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 119.9,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 767,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 163.0,
+              "pieces": 4,
+              "payments": {
+                "Cash": 83.0,
+                "QR": 80.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 736,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 Polo DWD",
+              "sales": 210.0,
+              "pieces": 1,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 210.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 115,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "09/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1425,
+              "pending": false,
+              "note": "白T 1；白T 2；白T 3；白T 4；白T 5；多维度包包；RK包包"
+            },
+            {
+              "date": "10/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1119,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 474,
+              "pending": false,
+              "note": "白T"
+            },
+            {
+              "date": "10/14",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 779,
+              "pending": false,
+              "note": "二折男 双杆；二折男 单杆；3/70 单杆；2/80男 双杆；二折女 单杆；防晒 单杆；2/70男 单杆"
+            },
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 485,
+              "pending": false,
+              "note": "白T；速干"
+            },
+            {
+              "date": "10/22",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 205,
+              "pending": false,
+              "note": "DWD；RK"
+            },
+            {
+              "date": "10/27",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 221,
+              "pending": false,
+              "note": "速干"
+            },
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 258,
+              "pending": false,
+              "note": "白T"
+            },
+            {
+              "date": "11/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 613,
+              "pending": false,
+              "note": "白T 305、速干 308"
+            },
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 301,
+              "pending": false,
+              "note": "店铺物料 301"
+            },
+            {
+              "date": "10/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 322,
+              "pending": false,
+              "note": "撤场多维度；撤场RK"
+            },
+            {
+              "date": "10/24",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 348,
+              "pending": false,
+              "note": "退回部分速干"
+            },
+            {
+              "date": "11/03",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 19,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "MY21",
+          "date": "23/11/2026",
+          "openDays": 55,
+          "openedOn": "2026-09-30",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来22店贵和广场G楼",
+          "rawText": "📍地点：马来22店贵和广场G楼\nLocation：MY22 (G Floor)\n\nDate :   23/11/2026\n天數 days completed：开业第55天（2026-09-30 起）\n\n业绩 Sales : Rm 230.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 230.00\n补货：09/30 来 1579件（白T 1；白T 2；白T 3；白T 4；白T 5；多维度包包；RK包包） + 10/01 来 1265件（物料）、从马来12调入 46件（物料转移） + 10/10 来 305件（白T） + 10/11 来 200件（DWD） + 10/19 来 312件（白T） + 10/21 来 300件（杯子） + 10/25 来 506件（杯子；白T） + 10/30 来 100件（杯子） + 11/03 来 150件（水杯 150） + 11/10 来 302件（白T 302） + 11/11 来 350件（水杯 50、店铺物料 300） + 11/19 来 20件（店铺物料 20）\n退货：11/03 退 37件 + 11/20 退 27件 + 11/23 退 673件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0（另退回总仓 627件 DBD26110181·退回白T）\n剩余库存 Closing stock : 184 *\n\n💼包 Polo DWD\n业绩 Sales : Rm 230.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 230.00\n銷售件数 Sold Today : 1\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 188 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0（另退回总仓 46件 DBD26110182·退回杯子）\n剩余库存 Closing Stock : 5 *",
+          "sales": 230.0,
+          "orders": 1,
+          "atv": 230.0,
+          "salesChange": -0.7894461518341725,
+          "lastWeekAverage": 1092.357142857143,
+          "pieces": 1,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 230.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 184,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0,
+              "warehouseReturn": {
+                "pieces": 627,
+                "document": "DBD26110181",
+                "note": "退回白T"
+              }
+            },
+            {
+              "name": "包 Polo DWD",
+              "sales": 230.0,
+              "pieces": 1,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 230.0
+              },
+              "inventory": {
+                "pieces": 188,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 5,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0,
+              "warehouseReturn": {
+                "pieces": 46,
+                "document": "DBD26110182",
+                "note": "退回杯子"
+              }
+            }
+          ],
+          "movements": [
+            {
+              "date": "09/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1579,
+              "pending": false,
+              "note": "白T 1；白T 2；白T 3；白T 4；白T 5；多维度包包；RK包包"
+            },
+            {
+              "date": "10/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1265,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/01",
+              "kind": "补货",
+              "action": "从马来12调入",
+              "pieces": 46,
+              "pending": false,
+              "note": "物料转移"
+            },
+            {
+              "date": "10/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 305,
+              "pending": false,
+              "note": "白T"
+            },
+            {
+              "date": "10/11",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "DWD"
+            },
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 312,
+              "pending": false,
+              "note": "白T"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 300,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 506,
+              "pending": false,
+              "note": "杯子；白T"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "11/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 150,
+              "pending": false,
+              "note": "水杯 150"
+            },
+            {
+              "date": "11/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 302,
+              "pending": false,
+              "note": "白T 302"
+            },
+            {
+              "date": "11/11",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 350,
+              "pending": false,
+              "note": "水杯 50、店铺物料 300"
+            },
+            {
+              "date": "11/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 20,
+              "pending": false,
+              "note": "店铺物料 20"
+            },
+            {
+              "date": "11/03",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 37,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/20",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 27,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/23",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 673,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "MY22 (G Floor)",
+          "date": "23/11/2026",
+          "openDays": 55,
+          "openedOn": "2026-09-30",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来26店Hartamas金地广场",
+          "rawText": "📍地点：马来26店Hartamas金地广场\nLocation：Hartamas Shopping Centre\n\nDate :   23/11/2026\n天數 days completed：开业第52天（2026-10-03 起）\n\n业绩 Sales : Rm 293.90\n現金 Cash：Rm 194.00\n掃碼 QR：Rm 99.90\n刷卡 Card：Rm 0.00\n补货：10/03 来 311件（多维度包包；RK 包包） + 10/04 来 362件（物料） + 10/18 来 106件（RK） + 10/21 来 200件（一号杯子；二号杯子） + 10/25 来 100件（杯子） + 10/30 来 100件（杯子） + 11/05 来 50件（水杯 50） + 11/18 来 281件（速干 231、包 Polo DWD 50） + 11/19 来 206件（店铺物料 206）\n退货：11/02 退 185件 + 11/20 退 9件\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 114.00\n現金 Cash：Rm 34.00\n掃碼 QR：Rm 80.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 3\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 185 *\n\n💼包 Polo DWD\n业绩 Sales : Rm 160.00\n現金 Cash：Rm 160.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 1\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 86 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 19.90\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 19.90\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 1\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 75 *",
+          "sales": 293.9,
+          "orders": 4,
+          "atv": 73.48,
+          "salesChange": -0.461425691772036,
+          "lastWeekAverage": 545.7,
+          "pieces": 5,
+          "payments": {
+            "Cash": 194.0,
+            "QR": 99.9,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "速干 Quick Dry",
+              "sales": 114.0,
+              "pieces": 3,
+              "payments": {
+                "Cash": 34.0,
+                "QR": 80.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 185,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 Polo DWD",
+              "sales": 160.0,
+              "pieces": 1,
+              "payments": {
+                "Cash": 160.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 86,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 19.9,
+              "pieces": 1,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 19.9,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 75,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 311,
+              "pending": false,
+              "note": "多维度包包；RK 包包"
+            },
+            {
+              "date": "10/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 362,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/18",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 106,
+              "pending": false,
+              "note": "RK"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "一号杯子；二号杯子"
+            },
+            {
+              "date": "10/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 50,
+              "pending": false,
+              "note": "水杯 50"
+            },
+            {
+              "date": "11/18",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 281,
+              "pending": false,
+              "note": "速干 231、包 Polo DWD 50"
+            },
+            {
+              "date": "11/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 206,
+              "pending": false,
+              "note": "店铺物料 206"
+            },
+            {
+              "date": "11/02",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 185,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/20",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 9,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "Hartamas Shopping Centre",
+          "date": "23/11/2026",
+          "openDays": 52,
+          "openedOn": "2026-10-03",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来33店贵和广场LG楼",
+          "rawText": "📍地点：马来33店贵和广场LG楼\nLocation：MY33 (LG Floor)\n\nDate :   23/11/2026\n天數 days completed：开业第27天（2026-10-28 起）\n\n业绩 Sales : Rm 558.90\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 50.00\n刷卡 Card：Rm 508.90\n补货：10/28 来 1895件（2折女 单杆；2/80女 双杆；二折男 双杆；3/80 男 单杆；防晒 单杆；2/80男 单杆；2/80 男 单杆；白T） + 10/30 来 21件（顾客要求内裤）、从马来31调入 3件（顾客要求货物） + 11/03 来 404件（白T 213、速干 191） + 11/10 来 397件（白T 205、速干 192） + 11/23 来 414件（白T 152、速干 262）\n退货：无\n\n👕白T White T\n业绩 Sales : Rm 119.90\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 50.00\n刷卡 Card :  Rm 69.90\n銷售件数 sold today: 7\n补货 add stock（if got ) : 152\n剩余库存 Closing stock : 911 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 439.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 439.00\n銷售件数 Sold Today : 9\n补货 Add Stock（If Got）: 262\n剩余库存 Closing Stock : 984 *",
+          "sales": 558.9,
+          "orders": 8,
+          "atv": 69.86,
+          "salesChange": -0.4380171225005746,
+          "lastWeekAverage": 994.5142857142857,
+          "pieces": 16,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 50.0,
+            "Card": 508.9
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 119.9,
+              "pieces": 7,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 50.0,
+                "Card": 69.9
+              },
+              "inventory": {
+                "pieces": 911,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 152
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 439.0,
+              "pieces": 9,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 439.0
+              },
+              "inventory": {
+                "pieces": 984,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 262
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1895,
+              "pending": false,
+              "note": "2折女 单杆；2/80女 双杆；二折男 双杆；3/80 男 单杆；防晒 单杆；2/80男 单杆；2/80 男 单杆；白T"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 21,
+              "pending": false,
+              "note": "顾客要求内裤"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "从马来31调入",
+              "pieces": 3,
+              "pending": false,
+              "note": "顾客要求货物"
+            },
+            {
+              "date": "11/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 404,
+              "pending": false,
+              "note": "白T 213、速干 191"
+            },
+            {
+              "date": "11/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 397,
+              "pending": false,
+              "note": "白T 205、速干 192"
+            },
+            {
+              "date": "11/23",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 414,
+              "pending": false,
+              "note": "白T 152、速干 262"
+            }
+          ],
+          "unparsed": [],
+          "location": "MY33 (LG Floor)",
+          "date": "23/11/2026",
+          "openDays": 27,
+          "openedOn": "2026-10-28",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来35店ST超市巴生（白T/杯子）",
+          "rawText": "📍地点：马来35店ST超市巴生（白T/杯子）\nLocation：ST Supermarket Klang (White T/Tumbler)\n\nDate :   23/11/2026\n天數 days completed：开业第16天（2026-11-08 起）\n\n业绩 Sales : Rm 488.80\n現金 Cash：Rm 189.30\n掃碼 QR：Rm 299.50\n刷卡 Card：Rm 0.00\n补货：11/08 来 1244件（白T 1044、水杯 200） + 11/15 来 571件（店铺物料 571） + 11/16 来 100件（水杯 100） + 11/23 来 200件（白T 200）\n退货：无\n\n👕白T White T\n业绩 Sales : Rm 269.90\n現金 Cash：Rm 50.00\n掃碼 QR：Rm 219.90\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 16\n补货 add stock（if got ) : 200\n剩余库存 Closing stock : 1002 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 218.90\n現金 Cash：Rm 139.30\n掃碼 QR：Rm 79.60\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 11\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : -60（系统负库存） *",
+          "sales": 488.8,
+          "orders": 13,
+          "atv": 37.6,
+          "salesChange": -0.3498517899217147,
+          "lastWeekAverage": 751.8285714285714,
+          "pieces": 27,
+          "payments": {
+            "Cash": 189.3,
+            "QR": 299.5,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 269.9,
+              "pieces": 16,
+              "payments": {
+                "Cash": 50.0,
+                "QR": 219.9,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 1002,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 200
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 218.9,
+              "pieces": 11,
+              "payments": {
+                "Cash": 139.3,
+                "QR": 79.6,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": -60,
+                "note": "系统负库存",
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1244,
+              "pending": false,
+              "note": "白T 1044、水杯 200"
+            },
+            {
+              "date": "11/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 571,
+              "pending": false,
+              "note": "店铺物料 571"
+            },
+            {
+              "date": "11/16",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "水杯 100"
+            },
+            {
+              "date": "11/23",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "白T 200"
+            }
+          ],
+          "unparsed": [],
+          "location": "ST Supermarket Klang (White T/Tumbler)",
+          "date": "23/11/2026",
+          "openDays": 16,
+          "openedOn": "2026-11-08",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来36店金务大广场",
+          "rawText": "📍地点：马来36店金务大广场\nLocation：MY36\n\nDate :   23/11/2026\n天數 days completed：开业第12天（2026-11-12 起）\n\n业绩 Sales : Rm 1,134.60\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 475.80\n刷卡 Card：Rm 658.80\n补货：11/12 来 172件（速干 172） + 11/13 来 2346件（白T 1403、速干 909、彩T 34） + 11/15 来 1143件（彩T 177、店铺物料 966） + 11/23 来 587件（白T 224、速干 363）\n退货：无\n\n👕白T White T\n业绩 Sales : Rm 439.80\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 219.90\n刷卡 Card :  Rm 219.90\n銷售件数 sold today: 26\n补货 add stock（if got ) : 224\n剩余库存 Closing stock : 1077 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 694.80\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 255.90\n刷卡Card: Rm 438.90\n銷售件数 Sold Today : 18\n补货 Add Stock（If Got）: 363\n剩余库存 Closing Stock : 1006 *\n\n🌈彩T Colour T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 120 *",
+          "sales": 1134.6,
+          "orders": 13,
+          "atv": 87.28,
+          "salesChange": -0.5321953633022335,
+          "lastWeekAverage": 2425.371428571428,
+          "pieces": 44,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 475.8,
+            "Card": 658.8
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 439.8,
+              "pieces": 26,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 219.9,
+                "Card": 219.9
+              },
+              "inventory": {
+                "pieces": 1077,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 224
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 694.8,
+              "pieces": 18,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 255.9,
+                "Card": 438.9
+              },
+              "inventory": {
+                "pieces": 1006,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 363
+            },
+            {
+              "name": "彩T Colour T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 120,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 172,
+              "pending": false,
+              "note": "速干 172"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2346,
+              "pending": false,
+              "note": "白T 1403、速干 909、彩T 34"
+            },
+            {
+              "date": "11/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1143,
+              "pending": false,
+              "note": "彩T 177、店铺物料 966"
+            },
+            {
+              "date": "11/23",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 587,
+              "pending": false,
+              "note": "白T 224、速干 363"
+            }
+          ],
+          "unparsed": [],
+          "location": "MY36",
+          "date": "23/11/2026",
+          "openDays": 12,
+          "openedOn": "2026-11-12",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来37店永旺旺沙玛珠",
+          "rawText": "📍地点：马来37店永旺旺沙玛珠\nLocation：AEON Wangsa Maju\n\nDate :   23/11/2026\n天數 days completed：开业第8天（2026-11-16 起）\n\n业绩 Sales : Rm 139.30\n現金 Cash：Rm 79.60\n掃碼 QR：Rm 59.70\n刷卡 Card：Rm 0.00\n补货：11/16 来 421件（水杯 126、店铺物料 295）\n退货：无\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 139.30\n現金 Cash：Rm 79.60\n掃碼 QR：Rm 59.70\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 7\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : -36（系统负库存） *",
+          "sales": 139.3,
+          "orders": 6,
+          "atv": 23.22,
+          "salesChange": -0.8848719553230929,
+          "lastWeekAverage": 1209.957142857143,
+          "pieces": 7,
+          "payments": {
+            "Cash": 79.6,
+            "QR": 59.7,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "水杯 Tumbler",
+              "sales": 139.3,
+              "pieces": 7,
+              "payments": {
+                "Cash": 79.6,
+                "QR": 59.7,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": -36,
+                "note": "系统负库存",
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/16",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 421,
+              "pending": false,
+              "note": "水杯 126、店铺物料 295"
+            }
+          ],
+          "unparsed": [],
+          "location": "AEON Wangsa Maju",
+          "date": "23/11/2026",
+          "openDays": 8,
+          "openedOn": "2026-11-16",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来24店万宜KIP商场G楼",
+          "rawText": "📍地点：马来24店万宜KIP商场G楼\nLocation：KIP Mall Bangi G Floor\n\nDate :   23/11/2026\n天數 days completed：开业第53天（2026-10-02 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/02 来 225件（多维度包包；RK包包） + 10/04 来 372件（物料） + 10/11 来 100件（包包） + 10/15 来 200件（杯子） + 10/16 从马来25调入 157件（杯子全数调货） + 10/19 来 139件（一号杯子；二号杯子） + 10/21 来 250件（杯子） + 10/24 来 200件（杯子） + 10/25 来 300件 + 10/26 来 200件（杯子） + 10/28 来 200件（杯子） + 10/30 来 100件（杯子）\n退货：10/18 退 265件（撤场多维度；撤场RK） + 11/04 退 180件\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 7 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 7,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/02",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 225,
+              "pending": false,
+              "note": "多维度包包；RK包包"
+            },
+            {
+              "date": "10/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 372,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/11",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "包包"
+            },
+            {
+              "date": "10/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/16",
+              "kind": "补货",
+              "action": "从马来25调入",
+              "pieces": 157,
+              "pending": false,
+              "note": "杯子全数调货"
+            },
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 139,
+              "pending": false,
+              "note": "一号杯子；二号杯子"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 300,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "10/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/18",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 265,
+              "pending": false,
+              "note": "撤场多维度；撤场RK"
+            },
+            {
+              "date": "11/04",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 180,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "KIP Mall Bangi G Floor",
+          "date": "23/11/2026",
+          "openDays": 53,
+          "openedOn": "2026-10-02",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来25店万宜KIP商场1楼",
+          "rawText": "📍地点：马来25店万宜KIP商场1楼\nLocation：KIP Mall Bangi 1st Floor\n\nDate :   23/11/2026\n天數 days completed：开业第53天（2026-10-02 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/02 来 1344件（白T；杯子） + 10/04 来 689件（物料） + 10/08 来 200件（杯子） + 10/15 来 1049件（二折男 双杆；2/80 男 双杆；防晒 单杆；3/80 男 单杆；2/80 女 单杆；2/80 男 单杆；二折男 单杆；白T） + 10/21 来 250件（杯子） + 10/26 来 100件（杯子） + 10/28 来 100件（杯子）\n退货：10/16 调出至马来24 157件（杯子全数调货） + 10/24 退 319件（退回部分速干） + 11/03 退 1108件 + 11/04 退 147件\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 1 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 1,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/02",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1344,
+              "pending": false,
+              "note": "白T；杯子"
+            },
+            {
+              "date": "10/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 689,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1049,
+              "pending": false,
+              "note": "二折男 双杆；2/80 男 双杆；防晒 单杆；3/80 男 单杆；2/80 女 单杆；2/80 男 单杆；二折男 单杆；白T"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/16",
+              "kind": "退货",
+              "action": "调出至马来24",
+              "pieces": 157,
+              "pending": false,
+              "note": "杯子全数调货"
+            },
+            {
+              "date": "10/24",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 319,
+              "pending": false,
+              "note": "退回部分速干"
+            },
+            {
+              "date": "11/03",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1108,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/04",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 147,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "KIP Mall Bangi 1st Floor",
+          "date": "23/11/2026",
+          "openDays": 53,
+          "openedOn": "2026-10-02",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来27店第17区商场",
+          "rawText": "📍地点：马来27店第17区商场\nLocation：MY27\n\nDate :   23/11/2026\n天數 days completed：开业第50天（2026-10-05 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/05 来 1896件（白T 1；白T 2；白T 3；白T 4；白T 5；2/70 男 双杆；二折男 双杆；小孩套装 单杆；3/70 单杆；二折男 单杆；防晒 单杆；二折女 单杆） + 10/06 来 2097件（物料） + 10/10 来 1738件（速干；内衣；内裤；杯子） + 10/15 来 800件（白T；速干；二号杯子；杯子） + 10/19 来 676件（白T；速干） + 10/22 来 200件（杯子）\n退货：10/15 退 249件（退回内衣） + 10/18 退 956件（撤场内裤） + 10/27 退 201件（撤场物料） + 11/01 退 2042件\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 8 *\n\n🩲内衣/内裤 Underwear\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 33 *\n\n🧢防晒系列 Sun Protection\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 1 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 8,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "内衣/内裤 Underwear",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 33,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "防晒系列 Sun Protection",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 1,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1896,
+              "pending": false,
+              "note": "白T 1；白T 2；白T 3；白T 4；白T 5；2/70 男 双杆；二折男 双杆；小孩套装 单杆；3/70 单杆；二折男 单杆；防晒 单杆；二折女 单杆"
+            },
+            {
+              "date": "10/06",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2097,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1738,
+              "pending": false,
+              "note": "速干；内衣；内裤；杯子"
+            },
+            {
+              "date": "10/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 800,
+              "pending": false,
+              "note": "白T；速干；二号杯子；杯子"
+            },
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 676,
+              "pending": false,
+              "note": "白T；速干"
+            },
+            {
+              "date": "10/22",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 249,
+              "pending": false,
+              "note": "退回内衣"
+            },
+            {
+              "date": "10/18",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 956,
+              "pending": false,
+              "note": "撤场内裤"
+            },
+            {
+              "date": "10/27",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 201,
+              "pending": false,
+              "note": "撤场物料"
+            },
+            {
+              "date": "11/01",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 2042,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "MY27",
+          "date": "23/11/2026",
+          "openDays": 50,
+          "openedOn": "2026-10-05",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来28店德普尔兹购物中心",
+          "rawText": "📍地点：马来28店德普尔兹购物中心\nLocation：MY28\n\nDate :   23/11/2026\n天數 days completed：开业第44天（2026-10-11 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/11 来 2021件（白T 2；白T 3；白T 4；白T 5；小孩单杆；3/70 单杆；2/70 女装 单杆；二折男双杆；二折女 双杆；防晒 单杆；2/70 男 单杆；白T 1） + 10/12 来 788件（物料） + 10/19 来 705件（白T；速干）\n退货：10/25 退 62件（撤场道具） + 11/01 退 1575件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 5 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 5,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/11",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2021,
+              "pending": false,
+              "note": "白T 2；白T 3；白T 4；白T 5；小孩单杆；3/70 单杆；2/70 女装 单杆；二折男双杆；二折女 双杆；防晒 单杆；2/70 男 单杆；白T 1"
+            },
+            {
+              "date": "10/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 788,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 705,
+              "pending": false,
+              "note": "白T；速干"
+            },
+            {
+              "date": "10/25",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 62,
+              "pending": false,
+              "note": "撤场道具"
+            },
+            {
+              "date": "11/01",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1575,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "MY28",
+          "date": "23/11/2026",
+          "openDays": 44,
+          "openedOn": "2026-10-11",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来29店湖畔商场",
+          "rawText": "📍地点：马来29店湖畔商场\nLocation：MY29\n\nDate :   23/11/2026\n天數 days completed：开业第44天（2026-10-11 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/11 来 650件（杯子；RK包包；DWD 包包） + 10/13 来 707件（物料） + 10/19 来 250件（二号杯子；一号杯子） + 10/21 来 1250件（白T；防晒 单杆；3/80男 单杆） + 10/25 来 100件（杯子） + 10/26 来 100件（杯子） + 10/28 来 831件（杯子；速干；杯子2号；白T） + 11/02 来 791件（白T 329、速干 192、包 Polo DWD 120、水杯 150） + 11/05 来 404件（店铺物料 404）\n退货：10/24 退 125件（退回部分RK；退回部分DWD） + 11/02 退 50件 + 11/10 退 1088件 + 11/12 退 161件 + 11/14 退 413件 + 11/15 退 443件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 11 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 3 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 11,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 3,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/11",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 650,
+              "pending": false,
+              "note": "杯子；RK包包；DWD 包包"
+            },
+            {
+              "date": "10/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 707,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "二号杯子；一号杯子"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1250,
+              "pending": false,
+              "note": "白T；防晒 单杆；3/80男 单杆"
+            },
+            {
+              "date": "10/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 831,
+              "pending": false,
+              "note": "杯子；速干；杯子2号；白T"
+            },
+            {
+              "date": "11/02",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 791,
+              "pending": false,
+              "note": "白T 329、速干 192、包 Polo DWD 120、水杯 150"
+            },
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 404,
+              "pending": false,
+              "note": "店铺物料 404"
+            },
+            {
+              "date": "10/24",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 125,
+              "pending": false,
+              "note": "退回部分RK；退回部分DWD"
+            },
+            {
+              "date": "11/02",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 50,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/10",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1088,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/12",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 161,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/14",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 413,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 443,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "MY29",
+          "date": "23/11/2026",
+          "openDays": 44,
+          "openedOn": "2026-10-11",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来30店再也第一购物中心1楼",
+          "rawText": "📍地点：马来30店再也第一购物中心1楼\nLocation：MY30\n\nDate :   23/11/2026\n天數 days completed：开业第36天（2026-10-19 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/19 来 2510件（防晒 单杆；二折男 双杆；2/80 女 双杆；2/80 女 单杆；彩T 单杆；2/80 男 单杆；3/80 男 单杆；2折女 单杆；白T；杯子） + 10/28 来 725件（杯子；速干；白T；彩T） + 11/02 来 150件（水杯 150） + 11/08 来 417件（白T 207、速干 210）\n退货：11/14 退 790件 + 11/15 退 1569件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 9 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 5 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 4 *\n\n🌈彩T Colour T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 3 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 9,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 5,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 4,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "彩T Colour T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 3,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2510,
+              "pending": false,
+              "note": "防晒 单杆；二折男 双杆；2/80 女 双杆；2/80 女 单杆；彩T 单杆；2/80 男 单杆；3/80 男 单杆；2折女 单杆；白T；杯子"
+            },
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 725,
+              "pending": false,
+              "note": "杯子；速干；白T；彩T"
+            },
+            {
+              "date": "11/02",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 150,
+              "pending": false,
+              "note": "水杯 150"
+            },
+            {
+              "date": "11/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 417,
+              "pending": false,
+              "note": "白T 207、速干 210"
+            },
+            {
+              "date": "11/14",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 790,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1569,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "MY30",
+          "date": "23/11/2026",
+          "openDays": 36,
+          "openedOn": "2026-10-19",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来31店雅绚（阿特里亚）购物廊",
+          "rawText": "📍地点：马来31店雅绚（阿特里亚）购物廊\nLocation：Atria Shopping Gallery\n\nDate :   23/11/2026\n天數 days completed：开业第31天（2026-10-24 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/24 来 2999件（杯子；防晒 单杆；2/80 男 单杆；3/80男 单杆；二折女 单杆；彩T 单杆；2/80女 单杆；白T 1；白T 2；白T 3；白T 4；白T 5；二折男 双杆；二折女 双杆；2/80男 单杆） + 10/29 来 1405件（内裤；内衣；杯子） + 11/03 来 416件（白T 416） + 11/05 来 150件（水杯 150）\n退货：10/30 调出至马来33 3件（顾客要求货物） + 11/10 退 262件 + 11/12 退 557件 + 11/15 退 2397件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 35 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 45 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 3 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 35,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 45,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 3,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2999,
+              "pending": false,
+              "note": "杯子；防晒 单杆；2/80 男 单杆；3/80男 单杆；二折女 单杆；彩T 单杆；2/80女 单杆；白T 1；白T 2；白T 3；白T 4；白T 5；二折男 双杆；二折女 双杆；2/80男 单杆"
+            },
+            {
+              "date": "10/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1405,
+              "pending": false,
+              "note": "内裤；内衣；杯子"
+            },
+            {
+              "date": "11/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 416,
+              "pending": false,
+              "note": "白T 416"
+            },
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 150,
+              "pending": false,
+              "note": "水杯 150"
+            },
+            {
+              "date": "10/30",
+              "kind": "退货",
+              "action": "调出至马来33",
+              "pieces": 3,
+              "pending": false,
+              "note": "顾客要求货物"
+            },
+            {
+              "date": "11/10",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 262,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/12",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 557,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 2397,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "Atria Shopping Gallery",
+          "date": "23/11/2026",
+          "openDays": 31,
+          "openedOn": "2026-10-24",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来34店新中央车站广场",
+          "rawText": "📍地点：马来34店新中央车站广场\nLocation：NU Sentral\n\nDate :   23/11/2026\n天數 days completed：开业第19天（2026-11-05 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：11/05 来 2871件（白T 1450、水杯 450、店铺物料 971） + 11/08 来 128件（水杯 126、店铺物料 2） + 11/11 来 1427件（白T 615、水杯 212、店铺物料 600） + 11/16 来 253件（包 Polo DWD 232、店铺物料 21）\n退货：11/19 退 528件 + 11/20 退 302件 + 11/23 退 220件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 1 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 7 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": -1.0,
+          "lastWeekAverage": 402.8428571428572,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 1,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 7,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2871,
+              "pending": false,
+              "note": "白T 1450、水杯 450、店铺物料 971"
+            },
+            {
+              "date": "11/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 128,
+              "pending": false,
+              "note": "水杯 126、店铺物料 2"
+            },
+            {
+              "date": "11/11",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1427,
+              "pending": false,
+              "note": "白T 615、水杯 212、店铺物料 600"
+            },
+            {
+              "date": "11/16",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 253,
+              "pending": false,
+              "note": "包 Polo DWD 232、店铺物料 21"
+            },
+            {
+              "date": "11/19",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 528,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/20",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 302,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/23",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 220,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "NU Sentral",
+          "date": "23/11/2026",
+          "openDays": 19,
+          "openedOn": "2026-11-05",
+          "firstTransfer": null
+        },
+        {
+          "name": "马来莲花地不老新山11.9-12.8",
+          "rawText": "📍地点：马来莲花地不老新山11.9-12.8\nLocation：Lotus's Tebrau JB (Pop-up)\n\nDate :   23/11/2026\n天數 days completed：开业第15天（2026-11-09 起；首张调拨 2026-11-22）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：11/22 来 72件（水杯 72）\n退货：无\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 72 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": null,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 72,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/22",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 72,
+              "pending": false,
+              "note": "水杯 72"
+            }
+          ],
+          "unparsed": [],
+          "location": "Lotus's Tebrau JB (Pop-up)",
+          "date": "23/11/2026",
+          "openDays": 15,
+          "openedOn": "2026-11-09",
+          "firstTransfer": "2026-11-22"
+        }
+      ],
+      "notes": [
+        "尼贝熊（马来）自营门店日报  数据日期 2026-11-23",
+        "* 剩余库存（数字后标 *）= 系统库存快照（截至 2026-11-24 15:26 MYT，近似 11-23 收盘库存，已含当日补货调拨）；物料不计入。",
+        "* 分品类金额 = 每单实收按明细金额比例分摊（套餐折扣已按比例摊入），各品类合计 = 门店合计。",
+        "* 名称以「马来联营」开头的门店，以及「马来LOT10乐天广场11.17-1.3 / 马来联营LOT10乐天广场11.17-1.3」合写结算单据，在确认前暂归联营。",
+        "* 整笔现金结算单据（不在销售单中）不计入业绩，见文末「待确认的结算单据」。",
+        "* 补货/退货为自开业以来已调拨流水（同日合并；11月写出品类，更早单据用备注）。待审核不计入流水，列在后面并标注（待审核）。店间调拨记为从某店调入/调出至某店。"
+      ],
+      "groups": [
+        "当日有销售（7 家）",
+        "有库存、当日无销售（9 家）"
+      ],
+      "omittedStores": [],
+      "subtotal": {
+        "categories": [
+          {
+            "name": "白T",
+            "pieces": 56,
+            "sales": 949.5
+          },
+          {
+            "name": "速干",
+            "pieces": 34,
+            "sales": 1410.8
+          },
+          {
+            "name": "包 Polo DWD",
+            "pieces": 3,
+            "sales": 600.0
+          },
+          {
+            "name": "水杯",
+            "pieces": 19,
+            "sales": 378.1
+          }
+        ],
+        "payments": {
+          "Cash": 545.9,
+          "QR": 1394.8,
+          "Card": 1397.7
+        },
+        "date": "23/11/2026",
+        "storeCount": 16,
+        "sellingStores": 7,
+        "orders": 50,
+        "sales": 3338.4,
+        "pieces": 112
+      },
+      "pending": {
+        "items": [
+          {
+            "store": "马来37店永旺旺沙玛珠",
+            "document": "XSD26118555",
+            "method": "现金",
+            "sales": 1685.0
+          },
+          {
+            "store": "马来37店永旺旺沙玛珠",
+            "document": "XSD26118554",
+            "method": "现金",
+            "sales": 2625.0
+          },
+          {
+            "store": "马来总店(0010)",
+            "document": "(明细为空)",
+            "method": "现金",
+            "sales": 415.0
+          },
+          {
+            "store": "马来总店(0010)",
+            "document": "(明细为空)",
+            "method": "线上/扫码",
+            "sales": 95.0
+          },
+          {
+            "store": "马来总店(0010)",
+            "document": "(明细为空)",
+            "method": "刷卡",
+            "sales": 58.9
+          },
+          {
+            "store": "马来新山佰乐泰购物广场11.9-12.8",
+            "document": "XSD26118539",
+            "method": "现金",
+            "sales": 21465.0
+          },
+          {
+            "store": "马来新山佰乐泰购物广场11.9-12.8",
+            "document": "XSD26118538",
+            "method": "现金",
+            "sales": 11545.0
+          },
+          {
+            "store": "马来莲花地不老新山11.9-12.8",
+            "document": "XSD26118547",
+            "method": "现金",
+            "sales": 4355.0
+          },
+          {
+            "store": "马来莲花地不老新山11.9-12.8",
+            "document": "XSD26118546",
+            "method": "现金",
+            "sales": 6165.0
+          },
+          {
+            "store": "马来城市购物新山1号店11.8-12.8",
+            "document": "XSD26118543",
+            "method": "现金",
+            "sales": 11750.0
+          },
+          {
+            "store": "马来城市购物新山1号店11.8-12.8",
+            "document": "XSD26118542",
+            "method": "现金",
+            "sales": 7280.0
+          },
+          {
+            "store": "马来城市购物新山3号店11.8-12.8",
+            "document": "XSD26118551",
+            "method": "现金",
+            "sales": 3755.0
+          },
+          {
+            "store": "马来城市购物新山3号店11.8-12.8",
+            "document": "XSD26118550",
+            "method": "现金",
+            "sales": 5435.0
+          },
+          {
+            "store": "马来武吉拉惹永旺11.11-11.29",
+            "document": "XSD26118541",
+            "method": "现金",
+            "sales": 4500.0
+          },
+          {
+            "store": "马来武吉拉惹永旺11.11-11.29",
+            "document": "XSD26118540",
+            "method": "现金",
+            "sales": 7535.0
+          }
+        ],
+        "sales": 88663.9,
+        "count": 15,
+        "note": "不在销售单列表中，疑为商场整笔结算/补录单，请确认是否计入业绩。"
+      },
+      "unparsed": [],
+      "heading": "自营 Self-operated"
+    },
+    "joint": {
+      "stores": [
+        {
+          "name": "联营1店KLIA2",
+          "rawText": "📍地点：联营1店KLIA2\nLocation：KLIA2\n\nDate :   23/11/2026\n天數 days completed：开业第120天（2026-07-27 起）\n\n业绩 Sales : Rm 1,110.00\n現金 Cash：Rm 210.00\n掃碼 QR：Rm 330.00\n刷卡 Card：Rm 570.00\n补货：07/27 来 210件（KLIA2 补货50个POLO包包；KLIA2 补货160件速干） + 07/29 来 529件 + 07/31 来 263件（联营1店KLIA2 补货175件彩T；联营1店KLIA2 补货88个杯子） + 08/01 来 100件（保罗包包 100个） + 08/07 来 106件（KLIA QD RESTOCK 7/8/2026） + 08/12 来 400件（杯子300个；多维度包包补货100个） + 08/20 来 504件（物料补发；杯子；多维度） + 08/21 来 315件（补货） + 08/24 来 731件（保罗包包；物料补货；补货；杯子） + 08/25 来 461件（补货；保罗包包） + 08/27 来 1215件（物料；POLO RKOSR 002 小包；POLO RKOSR 003 小包；POLO RKOSR 004 小包；POLO RKOSR 005 小包；POLO RKOSR 015 中包；POLO RKOSR 016 中包；POLO RKOSR 017 中包；POLO RKOSR 018 中包；POLO RKOSR 019 中包；POLO RKOSR 021 中包；POLO RKOSR 025 中包；莲花巴生 (4)；莲花巴生 (5)；莲花巴生 (6)；莲花巴生 (8)；布卢姆斯维尔购物中心 (1)；布卢姆斯维尔购物中心 (4)；布卢姆斯维尔购物中心 (5)；布卢姆斯维尔购物中心 (6)；布卢姆斯维尔购物中心 (7)） + 08/28 来 264件（物料补货；嬉闹熊包包） + 08/31 来 370件（多维度；物料补货） + 09/03 来 140件（多维度）、从联营5调入 44件（多维度）、从马来10调入 22件（保罗） + 09/07 来 506件（物料） + 09/08 来 341件（保罗包包） + 09/09 来 306件（物料；保罗和多维度包包） + 09/12 来 570件（物料；保罗包包；多维度包包） + 09/15 来 426件（保罗包包） + 09/17 来 1156件（嬉闹熊包包；包包；物料；RK包） + 09/24 来 685件（物料；RK包；多维度包包） + 09/28 来 783件（RK包） + 10/04 来 330件（多维度包包；物料） + 10/20 从联营13调入 188件（调货包包） + 10/22 来 300件（杯子） + 10/25 来 150件（杯子） + 10/26 来 494件（DWD；杯子） + 10/28 来 250件（杯子） + 10/30 来 207件（RK；DWD） + 11/01 来 400件（水杯 350、POLO RKOSR包 50） + 11/03 来 279件（水杯 120、POLO RKOSR包 159） + 11/05 来 505件（水杯 200、POLO RKOSR包 60、嬉闹熊包包 245） + 11/07 来 413件（店铺物料 413） + 11/13 来 310件（水杯 150、店铺物料 160） + 11/15 来 318件（包 Polo DWD 318） + 11/21 来 2件（店铺物料 2）\n退货：08/20 退 4件（物料退回） + 09/02 退 4397件（物料退回；撤场白T；撤场彩T；退回部分嬉闹熊；撤场速干；撤场杯子）；（待审核）11/23 退 37件\n\n💼包 Polo DWD\n业绩 Sales : Rm 870.00\n現金 Cash：Rm 210.00\n掃碼 QR：Rm 210.00\n刷卡Card: Rm 450.00\n銷售件数 Sold Today : 4\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 327 *\n\n👜包 POLO RKOSR\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 125 *\n\n🎒嬉闹熊包包 Bear Bag\n业绩 Sales : Rm 240.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 120.00\n刷卡Card: Rm 120.00\n銷售件数 Sold Today : 2\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 73 *",
+          "sales": 1110.0,
+          "orders": 6,
+          "atv": 185.0,
+          "salesChange": -0.7247413915261443,
+          "lastWeekAverage": 4032.571428571428,
+          "pieces": 6,
+          "payments": {
+            "Cash": 210.0,
+            "QR": 330.0,
+            "Card": 570.0
+          },
+          "categories": [
+            {
+              "name": "包 Polo DWD",
+              "sales": 870.0,
+              "pieces": 4,
+              "payments": {
+                "Cash": 210.0,
+                "QR": 210.0,
+                "Card": 450.0
+              },
+              "inventory": {
+                "pieces": 327,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 POLO RKOSR",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 125,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "嬉闹熊包包 Bear Bag",
+              "sales": 240.0,
+              "pieces": 2,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 120.0,
+                "Card": 120.0
+              },
+              "inventory": {
+                "pieces": 73,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "07/27",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 210,
+              "pending": false,
+              "note": "KLIA2 补货50个POLO包包；KLIA2 补货160件速干"
+            },
+            {
+              "date": "07/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 529,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "07/31",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 263,
+              "pending": false,
+              "note": "联营1店KLIA2 补货175件彩T；联营1店KLIA2 补货88个杯子"
+            },
+            {
+              "date": "08/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "保罗包包 100个"
+            },
+            {
+              "date": "08/07",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 106,
+              "pending": false,
+              "note": "KLIA QD RESTOCK 7/8/2026"
+            },
+            {
+              "date": "08/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 400,
+              "pending": false,
+              "note": "杯子300个；多维度包包补货100个"
+            },
+            {
+              "date": "08/20",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 504,
+              "pending": false,
+              "note": "物料补发；杯子；多维度"
+            },
+            {
+              "date": "08/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 315,
+              "pending": false,
+              "note": "补货"
+            },
+            {
+              "date": "08/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 731,
+              "pending": false,
+              "note": "保罗包包；物料补货；补货；杯子"
+            },
+            {
+              "date": "08/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 461,
+              "pending": false,
+              "note": "补货；保罗包包"
+            },
+            {
+              "date": "08/27",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1215,
+              "pending": false,
+              "note": "物料；POLO RKOSR 002 小包；POLO RKOSR 003 小包；POLO RKOSR 004 小包；POLO RKOSR 005 小包；POLO RKOSR 015 中包；POLO RKOSR 016 中包；POLO RKOSR 017 中包；POLO RKOSR 018 中包；POLO RKOSR 019 中包；POLO RKOSR 021 中包；POLO RKOSR 025 中包；莲花巴生 (4)；莲花巴生 (5)；莲花巴生 (6)；莲花巴生 (8)；布卢姆斯维尔购物中心 (1)；布卢姆斯维尔购物中心 (4)；布卢姆斯维尔购物中心 (5)；布卢姆斯维尔购物中心 (6)；布卢姆斯维尔购物中心 (7)"
+            },
+            {
+              "date": "08/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 264,
+              "pending": false,
+              "note": "物料补货；嬉闹熊包包"
+            },
+            {
+              "date": "08/31",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 370,
+              "pending": false,
+              "note": "多维度；物料补货"
+            },
+            {
+              "date": "09/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 140,
+              "pending": false,
+              "note": "多维度"
+            },
+            {
+              "date": "09/03",
+              "kind": "补货",
+              "action": "从联营5调入",
+              "pieces": 44,
+              "pending": false,
+              "note": "多维度"
+            },
+            {
+              "date": "09/03",
+              "kind": "补货",
+              "action": "从马来10调入",
+              "pieces": 22,
+              "pending": false,
+              "note": "保罗"
+            },
+            {
+              "date": "09/07",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 506,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "09/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 341,
+              "pending": false,
+              "note": "保罗包包"
+            },
+            {
+              "date": "09/09",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 306,
+              "pending": false,
+              "note": "物料；保罗和多维度包包"
+            },
+            {
+              "date": "09/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 570,
+              "pending": false,
+              "note": "物料；保罗包包；多维度包包"
+            },
+            {
+              "date": "09/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 426,
+              "pending": false,
+              "note": "保罗包包"
+            },
+            {
+              "date": "09/17",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1156,
+              "pending": false,
+              "note": "嬉闹熊包包；包包；物料；RK包"
+            },
+            {
+              "date": "09/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 685,
+              "pending": false,
+              "note": "物料；RK包；多维度包包"
+            },
+            {
+              "date": "09/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 783,
+              "pending": false,
+              "note": "RK包"
+            },
+            {
+              "date": "10/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 330,
+              "pending": false,
+              "note": "多维度包包；物料"
+            },
+            {
+              "date": "10/20",
+              "kind": "补货",
+              "action": "从联营13调入",
+              "pieces": 188,
+              "pending": false,
+              "note": "调货包包"
+            },
+            {
+              "date": "10/22",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 300,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 150,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 494,
+              "pending": false,
+              "note": "DWD；杯子"
+            },
+            {
+              "date": "10/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 207,
+              "pending": false,
+              "note": "RK；DWD"
+            },
+            {
+              "date": "11/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 400,
+              "pending": false,
+              "note": "水杯 350、POLO RKOSR包 50"
+            },
+            {
+              "date": "11/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 279,
+              "pending": false,
+              "note": "水杯 120、POLO RKOSR包 159"
+            },
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 505,
+              "pending": false,
+              "note": "水杯 200、POLO RKOSR包 60、嬉闹熊包包 245"
+            },
+            {
+              "date": "11/07",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 413,
+              "pending": false,
+              "note": "店铺物料 413"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 310,
+              "pending": false,
+              "note": "水杯 150、店铺物料 160"
+            },
+            {
+              "date": "11/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 318,
+              "pending": false,
+              "note": "包 Polo DWD 318"
+            },
+            {
+              "date": "11/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2,
+              "pending": false,
+              "note": "店铺物料 2"
+            },
+            {
+              "date": "08/20",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 4,
+              "pending": false,
+              "note": "物料退回"
+            },
+            {
+              "date": "09/02",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 4397,
+              "pending": false,
+              "note": "物料退回；撤场白T；撤场彩T；退回部分嬉闹熊；撤场速干；撤场杯子"
+            },
+            {
+              "date": "11/23",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 37,
+              "pending": true,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "KLIA2",
+          "date": "23/11/2026",
+          "openDays": 120,
+          "openedOn": "2026-07-27",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营26店莲花哥打巴鲁",
+          "rawText": "📍地点：联营26店莲花哥打巴鲁\nLocation：Lotus's Kota Bharu\n\nDate :   23/11/2026\n天數 days completed：开业第56天（2026-09-29 起）\n\n业绩 Sales : Rm 1,035.00\n現金 Cash：Rm 716.30\n掃碼 QR：Rm 130.00\n刷卡 Card：Rm 188.70\n补货：09/29 来 5527件（白T（2）；速干-防晒女（单杆）；物料；速干-70/2女（单杆）；速干-70/2男（单杆）；白T（3）；速干-70/3男（单杆）；白T（4）；速干-2折女（双杆）；白T（5）；白T（6）；白T（7）；白T（8）；白T（9）；白T（1）；杯子；速干- 2 折男 （双杆）） + 09/30 来 603件（RK包包（A13)；RK包包（A14)；RK包包（C1)；RK包包（C2)；RK包包（D1)；RKOSR包包（D2)；RKOSR包包（D3)；多维度包包（IMAGO 1)；多维度包包（CITTA A3）；多维度包包（CITTA A5）；多维度包包（CITTA A6）；多维度（CITTA A7）；多维度（CITTA A8）；多维度（CITTA 6）；多维度（CITTA 7)） + 10/15 来 200件（杯子） + 10/24 来 450件（杯子） + 11/05 来 670件（水杯 670）\n退货：10/21 退 67件（退回部分包包）\n\n👕白T White T\n业绩 Sales : Rm 150.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 50.00\n刷卡 Card :  Rm 100.00\n銷售件数 sold today: 9\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 1081 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 80.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 80.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 2\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 868 *\n\n💼包 Polo DWD\n业绩 Sales : Rm 210.00\n現金 Cash：Rm 210.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 1\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 121 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 295.00\n現金 Cash：Rm 206.30\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 88.70\n銷售件数 Sold Today : 14\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 296 *\n\n👜包 POLO RKOSR\n业绩 Sales : Rm 300.00\n現金 Cash：Rm 300.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 2\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 122 *\n\n🧢防晒系列 Sun Protection\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 33 *",
+          "sales": 1035.0,
+          "orders": 18,
+          "atv": 57.5,
+          "salesChange": 0.1882308562806487,
+          "lastWeekAverage": 871.0428571428572,
+          "pieces": 28,
+          "payments": {
+            "Cash": 716.3,
+            "QR": 130.0,
+            "Card": 188.7
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 150.0,
+              "pieces": 9,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 50.0,
+                "Card": 100.0
+              },
+              "inventory": {
+                "pieces": 1081,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 80.0,
+              "pieces": 2,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 80.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 868,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 Polo DWD",
+              "sales": 210.0,
+              "pieces": 1,
+              "payments": {
+                "Cash": 210.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 121,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 295.0,
+              "pieces": 14,
+              "payments": {
+                "Cash": 206.3,
+                "QR": 0.0,
+                "Card": 88.7
+              },
+              "inventory": {
+                "pieces": 296,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 POLO RKOSR",
+              "sales": 300.0,
+              "pieces": 2,
+              "payments": {
+                "Cash": 300.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 122,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "防晒系列 Sun Protection",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 33,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "09/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 5527,
+              "pending": false,
+              "note": "白T（2）；速干-防晒女（单杆）；物料；速干-70/2女（单杆）；速干-70/2男（单杆）；白T（3）；速干-70/3男（单杆）；白T（4）；速干-2折女（双杆）；白T（5）；白T（6）；白T（7）；白T（8）；白T（9）；白T（1）；杯子；速干- 2 折男 （双杆）"
+            },
+            {
+              "date": "09/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 603,
+              "pending": false,
+              "note": "RK包包（A13)；RK包包（A14)；RK包包（C1)；RK包包（C2)；RK包包（D1)；RKOSR包包（D2)；RKOSR包包（D3)；多维度包包（IMAGO 1)；多维度包包（CITTA A3）；多维度包包（CITTA A5）；多维度包包（CITTA A6）；多维度（CITTA A7）；多维度（CITTA A8）；多维度（CITTA 6）；多维度（CITTA 7)"
+            },
+            {
+              "date": "10/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 450,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 670,
+              "pending": false,
+              "note": "水杯 670"
+            },
+            {
+              "date": "10/21",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 67,
+              "pending": false,
+              "note": "退回部分包包"
+            }
+          ],
+          "unparsed": [],
+          "location": "Lotus's Kota Bharu",
+          "date": "23/11/2026",
+          "openDays": 56,
+          "openedOn": "2026-09-29",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营27店KSL白T速干 ②",
+          "rawText": "📍地点：联营27店KSL白T速干 ②\nLocation：KSL City Mall ② (White T & Quick Dry)\n\nDate :   23/11/2026\n天數 days completed：开业第57天（2026-09-28 起）\n\n业绩 Sales : Rm 2,098.70\n現金 Cash：Rm 754.80\n掃碼 QR：Rm 366.90\n刷卡 Card：Rm 977.00\n补货：09/28 来 4211件（白T；物料 KSL；2/80 单杆；70/2 单杆；2折双杆；70/3 男 单杆；70/2 男 单杆；70/3 单杆；防嗮衣 单杆；女速干2折 双杆） + 10/03 来 120件（小孩单杆） + 10/04 来 1508件（物料；白T；速干） + 10/08 来 1083件（白T） + 10/09 来 751件（速干） + 10/14 来 775件（速干二折男；速干 2；速干 1；白T） + 10/20 来 721件（速干；白T） + 10/29 来 1294件（速干；白T） + 11/08 来 1033件（白T 507、速干 226、店铺物料 300） + 11/12 来 441件（速干 441） + 11/13 来 515件（店铺物料 515） + 11/16 来 2000件（内衣/内裤 2000） + 11/19 来 1059件（速干 389、内衣/内裤 670）\n退货：11/15 退 1038件\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 181 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 1,412.00\n現金 Cash：Rm 516.00\n掃碼 QR：Rm 207.00\n刷卡Card: Rm 689.00\n銷售件数 Sold Today : 33\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 1648 *\n\n🩲内衣/内裤 Underwear\n业绩 Sales : Rm 686.70\n現金 Cash：Rm 238.80\n掃碼 QR：Rm 159.90\n刷卡Card: Rm 288.00\n銷售件数 Sold Today : 56\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 1671 *\n\n🧢防晒系列 Sun Protection\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 30 *",
+          "sales": 2098.7,
+          "orders": 36,
+          "atv": 58.3,
+          "salesChange": -0.3530432408390106,
+          "lastWeekAverage": 3243.957142857143,
+          "pieces": 89,
+          "payments": {
+            "Cash": 754.8,
+            "QR": 366.9,
+            "Card": 977.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 181,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 1412.0,
+              "pieces": 33,
+              "payments": {
+                "Cash": 516.0,
+                "QR": 207.0,
+                "Card": 689.0
+              },
+              "inventory": {
+                "pieces": 1648,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "内衣/内裤 Underwear",
+              "sales": 686.7,
+              "pieces": 56,
+              "payments": {
+                "Cash": 238.8,
+                "QR": 159.9,
+                "Card": 288.0
+              },
+              "inventory": {
+                "pieces": 1671,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "防晒系列 Sun Protection",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 30,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "09/28",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 4211,
+              "pending": false,
+              "note": "白T；物料 KSL；2/80 单杆；70/2 单杆；2折双杆；70/3 男 单杆；70/2 男 单杆；70/3 单杆；防嗮衣 单杆；女速干2折 双杆"
+            },
+            {
+              "date": "10/03",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 120,
+              "pending": false,
+              "note": "小孩单杆"
+            },
+            {
+              "date": "10/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1508,
+              "pending": false,
+              "note": "物料；白T；速干"
+            },
+            {
+              "date": "10/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1083,
+              "pending": false,
+              "note": "白T"
+            },
+            {
+              "date": "10/09",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 751,
+              "pending": false,
+              "note": "速干"
+            },
+            {
+              "date": "10/14",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 775,
+              "pending": false,
+              "note": "速干二折男；速干 2；速干 1；白T"
+            },
+            {
+              "date": "10/20",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 721,
+              "pending": false,
+              "note": "速干；白T"
+            },
+            {
+              "date": "10/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1294,
+              "pending": false,
+              "note": "速干；白T"
+            },
+            {
+              "date": "11/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1033,
+              "pending": false,
+              "note": "白T 507、速干 226、店铺物料 300"
+            },
+            {
+              "date": "11/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 441,
+              "pending": false,
+              "note": "速干 441"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 515,
+              "pending": false,
+              "note": "店铺物料 515"
+            },
+            {
+              "date": "11/16",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2000,
+              "pending": false,
+              "note": "内衣/内裤 2000"
+            },
+            {
+              "date": "11/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1059,
+              "pending": false,
+              "note": "速干 389、内衣/内裤 670"
+            },
+            {
+              "date": "11/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1038,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "KSL City Mall ② (White T & Quick Dry)",
+          "date": "23/11/2026",
+          "openDays": 57,
+          "openedOn": "2026-09-28",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营31店士乃国际机场",
+          "rawText": "📍地点：联营31店士乃国际机场\nLocation：Senai International Airport\n\nDate :   23/11/2026\n天數 days completed：开业第40天（2026-10-15 起）\n\n业绩 Sales : Rm 1,000.00\n現金 Cash：Rm 260.00\n掃碼 QR：Rm 740.00\n刷卡 Card：Rm 0.00\n补货：10/15 来 1246件（物料；多维度包包；RK包包） + 10/20 来 98件（RK包包） + 10/21 来 300件（多维度包包） + 10/30 来 211件（DWD；RK） + 11/12 来 201件（包 Polo DWD 135、POLO RKOSR包 66）\n退货：11/23 退 70件\n\n💼包 Polo DWD\n业绩 Sales : Rm 1,000.00\n現金 Cash：Rm 260.00\n掃碼 QR：Rm 740.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 6\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 304 *\n\n👜包 POLO RKOSR\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0（另退回总仓 70件 DBD26110197·退回RK）\n剩余库存 Closing Stock : 5 *",
+          "sales": 1000.0,
+          "orders": 6,
+          "atv": 166.67,
+          "salesChange": -0.54983922829582,
+          "lastWeekAverage": 2221.428571428572,
+          "pieces": 6,
+          "payments": {
+            "Cash": 260.0,
+            "QR": 740.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "包 Polo DWD",
+              "sales": 1000.0,
+              "pieces": 6,
+              "payments": {
+                "Cash": 260.0,
+                "QR": 740.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 304,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 POLO RKOSR",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 5,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0,
+              "warehouseReturn": {
+                "pieces": 70,
+                "document": "DBD26110197",
+                "note": "退回RK"
+              }
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1246,
+              "pending": false,
+              "note": "物料；多维度包包；RK包包"
+            },
+            {
+              "date": "10/20",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 98,
+              "pending": false,
+              "note": "RK包包"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 300,
+              "pending": false,
+              "note": "多维度包包"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 211,
+              "pending": false,
+              "note": "DWD；RK"
+            },
+            {
+              "date": "11/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 201,
+              "pending": false,
+              "note": "包 Polo DWD 135、POLO RKOSR包 66"
+            },
+            {
+              "date": "11/23",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 70,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "Senai International Airport",
+          "date": "23/11/2026",
+          "openDays": 40,
+          "openedOn": "2026-10-15",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营33店谷中城",
+          "rawText": "📍地点：联营33店谷中城\nLocation：Mid Valley Megamall\n\nDate :   23/11/2026\n天數 days completed：开业第32天（2026-10-23 起）\n\n业绩 Sales : Rm 159.70\n現金 Cash：Rm 39.80\n掃碼 QR：Rm 19.90\n刷卡 Card：Rm 100.00\n补货：10/23 来 1188件（杯子；白T） + 10/26 来 100件（杯子） + 11/01 来 380件（白T 220、水杯 160） + 11/12 来 220件（白T 220）；（待审核）11/24 来 216件（白T 216）\n退货：无\n\n👕白T White T\n业绩 Sales : Rm 59.70\n現金 Cash：Rm 39.80\n掃碼 QR：Rm 19.90\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 3\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 832 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 100.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 100.00\n銷售件数 Sold Today : 4\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 18 *",
+          "sales": 159.7,
+          "orders": 4,
+          "atv": 39.93,
+          "salesChange": -0.6201882241021982,
+          "lastWeekAverage": 420.4714285714286,
+          "pieces": 7,
+          "payments": {
+            "Cash": 39.8,
+            "QR": 19.9,
+            "Card": 100.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 59.7,
+              "pieces": 3,
+              "payments": {
+                "Cash": 39.8,
+                "QR": 19.9,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 832,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 100.0,
+              "pieces": 4,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 100.0
+              },
+              "inventory": {
+                "pieces": 18,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/23",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1188,
+              "pending": false,
+              "note": "杯子；白T"
+            },
+            {
+              "date": "10/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "11/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 380,
+              "pending": false,
+              "note": "白T 220、水杯 160"
+            },
+            {
+              "date": "11/12",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 220,
+              "pending": false,
+              "note": "白T 220"
+            },
+            {
+              "date": "11/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 216,
+              "pending": true,
+              "note": "白T 216"
+            }
+          ],
+          "unparsed": [],
+          "location": "Mid Valley Megamall",
+          "date": "23/11/2026",
+          "openDays": 32,
+          "openedOn": "2026-10-23",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营34店莲花地不老（新山）",
+          "rawText": "📍地点：联营34店莲花地不老（新山）\nLocation：Lotus's Tebrau (JB)\n\nDate :   23/11/2026\n天數 days completed：开业第19天（2026-11-05 起）\n\n业绩 Sales : Rm 179.00\n現金 Cash：Rm 50.00\n掃碼 QR：Rm 50.00\n刷卡 Card：Rm 79.00\n补货：11/05 来 2032件（白T 1051、水杯 200、店铺物料 781） + 11/09 来 201件（白T 201） + 11/13 来 682件（水杯 120、店铺物料 562） + 11/15 来 611件（店铺物料 611） + 11/18 来 430件（白T 430）；（待审核）11/24 来 280件（白T 280）\n退货：无\n\n👕白T White T\n业绩 Sales : Rm 150.00\n現金 Cash：Rm 50.00\n掃碼 QR：Rm 50.00\n刷卡 Card :  Rm 50.00\n銷售件数 sold today: 9\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 915 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 29.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 29.00\n銷售件数 Sold Today : 1\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 66 *",
+          "sales": 179.0,
+          "orders": 4,
+          "atv": 44.75,
+          "salesChange": -0.7345788849347568,
+          "lastWeekAverage": 674.4,
+          "pieces": 10,
+          "payments": {
+            "Cash": 50.0,
+            "QR": 50.0,
+            "Card": 79.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 150.0,
+              "pieces": 9,
+              "payments": {
+                "Cash": 50.0,
+                "QR": 50.0,
+                "Card": 50.0
+              },
+              "inventory": {
+                "pieces": 915,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 29.0,
+              "pieces": 1,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 29.0
+              },
+              "inventory": {
+                "pieces": 66,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2032,
+              "pending": false,
+              "note": "白T 1051、水杯 200、店铺物料 781"
+            },
+            {
+              "date": "11/09",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 201,
+              "pending": false,
+              "note": "白T 201"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 682,
+              "pending": false,
+              "note": "水杯 120、店铺物料 562"
+            },
+            {
+              "date": "11/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 611,
+              "pending": false,
+              "note": "店铺物料 611"
+            },
+            {
+              "date": "11/18",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 430,
+              "pending": false,
+              "note": "白T 430"
+            },
+            {
+              "date": "11/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 280,
+              "pending": true,
+              "note": "白T 280"
+            }
+          ],
+          "unparsed": [],
+          "location": "Lotus's Tebrau (JB)",
+          "date": "23/11/2026",
+          "openDays": 19,
+          "openedOn": "2026-11-05",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营12店马六甲英雄广场购物中心",
+          "rawText": "📍地点：联营12店马六甲英雄广场购物中心\nLocation：Dataran Pahlawan Melaka Megamall\n\nDate :   23/11/2026\n天數 days completed：开业第102天（2026-08-14 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：08/14 来 2963件（杯子；多维度；白T；速干） + 08/21 来 415件（补货） + 08/24 来 100件（杯子） + 08/29 来 7件（物料） + 09/01 来 206件（白T） + 09/04 来 250件（杯子） + 09/05 来 95件（多维度）、从联营14调入 57件（多维度） + 09/07 来 1321件（白T；速干） + 09/09 来 481件（速干） + 09/17 来 516件（白T；杯子） + 09/27 来 307件（多维度包包；杯子） + 10/01 来 1000件（杯子；KC道具归还到英雄广场；物料） + 10/10 来 150件（杯子） + 10/21 来 406件（速干；杯子） + 10/29 来 250件（杯子） + 11/13 来 456件（白T 306、水杯 150）\n退货：无\n\n👕白T White T\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card :  Rm 0.00\n銷售件数 sold today: 0\n补货 add stock（if got ) : 0\n剩余库存 Closing stock : 2872 *\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 1412 *\n\n💼包 Polo DWD\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 349 *\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 1820 *\n\n🧢防晒系列 Sun Protection\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 30 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "白T White T",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 2872,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "速干 Quick Dry",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 1412,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 Polo DWD",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 349,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 1820,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "防晒系列 Sun Protection",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 30,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "08/14",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 2963,
+              "pending": false,
+              "note": "杯子；多维度；白T；速干"
+            },
+            {
+              "date": "08/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 415,
+              "pending": false,
+              "note": "补货"
+            },
+            {
+              "date": "08/24",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 100,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "08/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 7,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "09/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 206,
+              "pending": false,
+              "note": "白T"
+            },
+            {
+              "date": "09/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "09/05",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 95,
+              "pending": false,
+              "note": "多维度"
+            },
+            {
+              "date": "09/05",
+              "kind": "补货",
+              "action": "从联营14调入",
+              "pieces": 57,
+              "pending": false,
+              "note": "多维度"
+            },
+            {
+              "date": "09/07",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1321,
+              "pending": false,
+              "note": "白T；速干"
+            },
+            {
+              "date": "09/09",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 481,
+              "pending": false,
+              "note": "速干"
+            },
+            {
+              "date": "09/17",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 516,
+              "pending": false,
+              "note": "白T；杯子"
+            },
+            {
+              "date": "09/27",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 307,
+              "pending": false,
+              "note": "多维度包包；杯子"
+            },
+            {
+              "date": "10/01",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1000,
+              "pending": false,
+              "note": "杯子；KC道具归还到英雄广场；物料"
+            },
+            {
+              "date": "10/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 150,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 406,
+              "pending": false,
+              "note": "速干；杯子"
+            },
+            {
+              "date": "10/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 456,
+              "pending": false,
+              "note": "白T 306、水杯 150"
+            }
+          ],
+          "unparsed": [],
+          "location": "Dataran Pahlawan Melaka Megamall",
+          "date": "23/11/2026",
+          "openDays": 102,
+          "openedOn": "2026-08-14",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营13店新山佰乐泰广场*联营",
+          "rawText": "📍地点：联营13店新山佰乐泰广场*联营\nLocation：Paradigm Mall Johor Bahru\n\nDate :   23/11/2026\n天數 days completed：开业第101天（2026-08-15 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：08/15 来 200件（多维度包包） + 08/19 来 358件（多维度包包；物料补发） + 08/31 来 160件（物料补货） + 09/08 来 584件（多维度；物料） + 09/20 来 780件（DWD和RK包包；RK包包） + 09/21 来 440件（物料） + 09/22 来 493件（多维度包包；RK包） + 09/26 来 994件（RK包包） + 10/25 来 1817件（白T；3/80 男 双杆；防晒 单杆；2/80 女 双杆；2/80男 单杆） + 10/30 来 146件（白T；速干） + 11/13 来 12件（店铺物料 12） + 11/14 来 23件（店铺物料 23）\n退货：08/20 退 1件（物料退回） + 09/19 退 324件（退回多维度） + 10/20 调出至联营1 188件（调货包包） + 10/28 退 196件（撤回多维度（1）；撤回RK (1)） + 11/01 退 138件 + 11/03 退 20件 + 11/12 退 1491件 + 11/15 退 163件\n\n🎽速干 Quick Dry\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 3 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "速干 Quick Dry",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 3,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "08/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "多维度包包"
+            },
+            {
+              "date": "08/19",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 358,
+              "pending": false,
+              "note": "多维度包包；物料补发"
+            },
+            {
+              "date": "08/31",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 160,
+              "pending": false,
+              "note": "物料补货"
+            },
+            {
+              "date": "09/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 584,
+              "pending": false,
+              "note": "多维度；物料"
+            },
+            {
+              "date": "09/20",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 780,
+              "pending": false,
+              "note": "DWD和RK包包；RK包包"
+            },
+            {
+              "date": "09/21",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 440,
+              "pending": false,
+              "note": "物料"
+            },
+            {
+              "date": "09/22",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 493,
+              "pending": false,
+              "note": "多维度包包；RK包"
+            },
+            {
+              "date": "09/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 994,
+              "pending": false,
+              "note": "RK包包"
+            },
+            {
+              "date": "10/25",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1817,
+              "pending": false,
+              "note": "白T；3/80 男 双杆；防晒 单杆；2/80 女 双杆；2/80男 单杆"
+            },
+            {
+              "date": "10/30",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 146,
+              "pending": false,
+              "note": "白T；速干"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 12,
+              "pending": false,
+              "note": "店铺物料 12"
+            },
+            {
+              "date": "11/14",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 23,
+              "pending": false,
+              "note": "店铺物料 23"
+            },
+            {
+              "date": "08/20",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1,
+              "pending": false,
+              "note": "物料退回"
+            },
+            {
+              "date": "09/19",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 324,
+              "pending": false,
+              "note": "退回多维度"
+            },
+            {
+              "date": "10/20",
+              "kind": "退货",
+              "action": "调出至联营1",
+              "pieces": 188,
+              "pending": false,
+              "note": "调货包包"
+            },
+            {
+              "date": "10/28",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 196,
+              "pending": false,
+              "note": "撤回多维度（1）；撤回RK (1)"
+            },
+            {
+              "date": "11/01",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 138,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/03",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 20,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/12",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 1491,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 163,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "Paradigm Mall Johor Bahru",
+          "date": "23/11/2026",
+          "openDays": 101,
+          "openedOn": "2026-08-15",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营21店KSL商场③",
+          "rawText": "📍地点：联营21店KSL商场③\nLocation：KSL City Mall ③\n\nDate :   23/11/2026\n天數 days completed：开业第77天（2026-09-08 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：09/08 来 1873件（杯子；物料） + 09/15 来 500件（杯子） + 09/18 来 180件（杯子） + 09/26 来 200件（杯子） + 10/02 来 300件（杯子） + 10/09 来 250件（杯子） + 10/14 来 300件（杯子） + 10/29 来 250件（杯子） + 11/08 来 22件（店铺物料 22） + 11/13 来 10件（店铺物料 10）\n退货：09/09 退 27件（漏送杯子） + 11/10 退 452件 + 11/15 退 37件\n\n🥤水杯 Tumbler\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 201 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "水杯 Tumbler",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 201,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "09/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1873,
+              "pending": false,
+              "note": "杯子；物料"
+            },
+            {
+              "date": "09/15",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 500,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "09/18",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 180,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "09/26",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 200,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/02",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 300,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/09",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/14",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 300,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "10/29",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 250,
+              "pending": false,
+              "note": "杯子"
+            },
+            {
+              "date": "11/08",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 22,
+              "pending": false,
+              "note": "店铺物料 22"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 10,
+              "pending": false,
+              "note": "店铺物料 10"
+            },
+            {
+              "date": "09/09",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 27,
+              "pending": false,
+              "note": "漏送杯子"
+            },
+            {
+              "date": "11/10",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 452,
+              "pending": false,
+              "note": null
+            },
+            {
+              "date": "11/15",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 37,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "KSL City Mall ③",
+          "date": "23/11/2026",
+          "openDays": 77,
+          "openedOn": "2026-09-08",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营25店KSL POLO包①",
+          "rawText": "📍地点：联营25店KSL POLO包①\nLocation：KSL City Mall ① (POLO Bag)\n\nDate :   23/11/2026\n天數 days completed：开业第58天（2026-09-27 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：09/27 来 1713件（物料；RK包包） + 10/04 来 305件（DWD包包；RK 包包） + 10/09 来 424件（DWD；物料） + 10/14 来 257件（DWD包包） + 10/20 来 393件（多维度包包；RK包包） + 11/13 来 10件（店铺物料 10）\n退货：11/12 退 480件\n\n💼包 Polo DWD\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 16 *\n\n👜包 POLO RKOSR\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 8 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "包 Polo DWD",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 16,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 POLO RKOSR",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 8,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "09/27",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 1713,
+              "pending": false,
+              "note": "物料；RK包包"
+            },
+            {
+              "date": "10/04",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 305,
+              "pending": false,
+              "note": "DWD包包；RK 包包"
+            },
+            {
+              "date": "10/09",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 424,
+              "pending": false,
+              "note": "DWD；物料"
+            },
+            {
+              "date": "10/14",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 257,
+              "pending": false,
+              "note": "DWD包包"
+            },
+            {
+              "date": "10/20",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 393,
+              "pending": false,
+              "note": "多维度包包；RK包包"
+            },
+            {
+              "date": "11/13",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 10,
+              "pending": false,
+              "note": "店铺物料 10"
+            },
+            {
+              "date": "11/12",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 480,
+              "pending": false,
+              "note": null
+            }
+          ],
+          "unparsed": [],
+          "location": "KSL City Mall ① (POLO Bag)",
+          "date": "23/11/2026",
+          "openDays": 58,
+          "openedOn": "2026-09-27",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营30店金河广场",
+          "rawText": "📍地点：联营30店金河广场\nLocation：Sungei Wang Plaza\n\nDate :   23/11/2026\n天數 days completed：开业第48天（2026-10-07 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：10/07 来 357件（多维度包包；物料）、从联营24调入 36件（物料转移）\n退货：10/28 退 222件（撤场多维度）\n\n💼包 Polo DWD\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 2 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "包 Polo DWD",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 2,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "10/07",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 357,
+              "pending": false,
+              "note": "多维度包包；物料"
+            },
+            {
+              "date": "10/07",
+              "kind": "补货",
+              "action": "从联营24调入",
+              "pieces": 36,
+              "pending": false,
+              "note": "物料转移"
+            },
+            {
+              "date": "10/28",
+              "kind": "退货",
+              "action": "退",
+              "pieces": 222,
+              "pending": false,
+              "note": "撤场多维度"
+            }
+          ],
+          "unparsed": [],
+          "location": "Sungei Wang Plaza",
+          "date": "23/11/2026",
+          "openDays": 48,
+          "openedOn": "2026-10-07",
+          "firstTransfer": null
+        },
+        {
+          "name": "联营35店IMAGO意象百货（沙巴）",
+          "rawText": "📍地点：联营35店IMAGO意象百货（沙巴）\nLocation：Imago Shopping Mall (Sabah)\n\nDate :   23/11/2026\n天數 days completed：开业第14天（2026-11-10 起）\n\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡 Card：Rm 0.00\n补货：11/10 来 500件（包 Polo DWD 100、POLO RKOSR包 400）\n退货：无\n\n💼包 Polo DWD\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 100 *\n\n👜包 POLO RKOSR\n业绩 Sales : Rm 0.00\n現金 Cash：Rm 0.00\n掃碼 QR：Rm 0.00\n刷卡Card: Rm 0.00\n銷售件数 Sold Today : 0\n补货 Add Stock（If Got）: 0\n剩余库存 Closing Stock : 400 *",
+          "sales": 0.0,
+          "orders": 0,
+          "atv": null,
+          "salesChange": null,
+          "lastWeekAverage": 0.0,
+          "pieces": 0,
+          "payments": {
+            "Cash": 0.0,
+            "QR": 0.0,
+            "Card": 0.0
+          },
+          "categories": [
+            {
+              "name": "包 Polo DWD",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 100,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            },
+            {
+              "name": "包 POLO RKOSR",
+              "sales": 0.0,
+              "pieces": 0,
+              "payments": {
+                "Cash": 0.0,
+                "QR": 0.0,
+                "Card": 0.0
+              },
+              "inventory": {
+                "pieces": 400,
+                "note": null,
+                "snapshot": true
+              },
+              "replenished": 0
+            }
+          ],
+          "movements": [
+            {
+              "date": "11/10",
+              "kind": "补货",
+              "action": "来",
+              "pieces": 500,
+              "pending": false,
+              "note": "包 Polo DWD 100、POLO RKOSR包 400"
+            }
+          ],
+          "unparsed": [],
+          "location": "Imago Shopping Mall (Sabah)",
+          "date": "23/11/2026",
+          "openDays": 14,
+          "openedOn": "2026-11-10",
+          "firstTransfer": null
+        }
+      ],
+      "notes": [
+        "尼贝熊（马来）联营门店日报  数据日期 2026-11-23",
+        "* 剩余库存（数字后标 *）= 系统库存快照（截至 2026-11-24 15:26 MYT，近似 11-23 收盘库存，已含当日补货调拨）；物料不计入。",
+        "* 分品类金额 = 每单实收按明细金额比例分摊（套餐折扣已按比例摊入），各品类合计 = 门店合计。",
+        "* 名称以「马来联营」开头的门店，以及「马来LOT10乐天广场11.17-1.3 / 马来联营LOT10乐天广场11.17-1.3」合写结算单据，在确认前暂归联营。",
+        "* 整笔现金结算单据（不在销售单中）不计入业绩，见文末「待确认的结算单据」。",
+        "* 补货/退货为自开业以来已调拨流水（同日合并；11月写出品类，更早单据用备注）。待审核不计入流水，列在后面并标注（待审核）。店间调拨记为从某店调入/调出至某店。",
+        "以下「马来联营…」门店本期无销售单、快照亦无正库存，未出日报块；相关整笔结算单见文末。归属暂按联营，待您确认："
+      ],
+      "groups": [
+        "当日有销售（6 家）",
+        "有库存、当日无销售（6 家）"
+      ],
+      "omittedStores": [
+        "马来联营168士拉央商场11.21-12.20",
+        "马来联营LOT10乐天广场11.17-1.3",
+        "马来联营光大JBCC商场11.20-12.27",
+        "马来联营吉隆坡第二机场11.21-1.31",
+        "马来联营士乃机场新山店11.19-12.31",
+        "马来联营桂和广场11.20-3.31",
+        "马来联营永旺 旺沙玛珠11.17-1.3"
+      ],
+      "subtotal": {
+        "categories": [
+          {
+            "name": "白T",
+            "pieces": 21,
+            "sales": 359.7
+          },
+          {
+            "name": "速干",
+            "pieces": 35,
+            "sales": 1492.0
+          },
+          {
+            "name": "包 Polo DWD",
+            "pieces": 11,
+            "sales": 2080.0
+          },
+          {
+            "name": "水杯",
+            "pieces": 19,
+            "sales": 424.0
+          },
+          {
+            "name": "内衣/内裤",
+            "pieces": 56,
+            "sales": 686.7
+          },
+          {
+            "name": "POLO RKOSR包",
+            "pieces": 2,
+            "sales": 300.0
+          },
+          {
+            "name": "嬉闹熊包包",
+            "pieces": 2,
+            "sales": 240.0
+          }
+        ],
+        "payments": {
+          "Cash": 2030.9,
+          "QR": 1636.8,
+          "Card": 1914.7
+        },
+        "date": "23/11/2026",
+        "storeCount": 12,
+        "sellingStores": 6,
+        "orders": 74,
+        "sales": 5582.4,
+        "pieces": 146
+      },
+      "pending": {
+        "items": [
+          {
+            "store": "马来LOT10乐天广场11.17-1.3 / 马来联营LOT10乐天广场11.17-1.3",
+            "document": "XSD26118537",
+            "method": "现金",
+            "sales": 8840.0
+          },
+          {
+            "store": "马来LOT10乐天广场11.17-1.3 / 马来联营LOT10乐天广场11.17-1.3",
+            "document": "XSD26118536",
+            "method": "现金",
+            "sales": 11835.0
+          },
+          {
+            "store": "马来联营士乃机场新山店11.19-12.31",
+            "document": "XSD26118553",
+            "method": "现金",
+            "sales": 11800.0
+          },
+          {
+            "store": "马来联营士乃机场新山店11.19-12.31",
+            "document": "XSD26118552",
+            "method": "现金",
+            "sales": 5295.0
+          },
+          {
+            "store": "马来联营吉隆坡第二机场11.21-1.31",
+            "document": "XSD26118535",
+            "method": "现金",
+            "sales": 14140.0
+          },
+          {
+            "store": "马来联营吉隆坡第二机场11.21-1.31",
+            "document": "XSD26118533",
+            "method": "现金",
+            "sales": 13160.0
+          },
+          {
+            "store": "马来联营光大JBCC商场11.20-12.27",
+            "document": "XSD26118545",
+            "method": "现金",
+            "sales": 8425.0
+          },
+          {
+            "store": "马来联营光大JBCC商场11.20-12.27",
+            "document": "XSD26118544",
+            "method": "现金",
+            "sales": 7025.0
+          },
+          {
+            "store": "马来联营桂和广场11.20-3.31",
+            "document": "XSD26118549",
+            "method": "现金",
+            "sales": 3285.0
+          },
+          {
+            "store": "马来联营桂和广场11.20-3.31",
+            "document": "XSD26118548",
+            "method": "现金",
+            "sales": 6095.0
+          },
+          {
+            "store": "马来联营168士拉央商场11.21-12.20",
+            "document": "XSD26118557",
+            "method": "现金",
+            "sales": 3710.0
+          },
+          {
+            "store": "马来联营168士拉央商场11.21-12.20",
+            "document": "XSD26118556",
+            "method": "现金",
+            "sales": 7105.0
+          }
+        ],
+        "sales": 100715.0,
+        "count": 12,
+        "note": "不在销售单列表中，疑为商场整笔结算/补录单，请确认是否计入业绩。"
+      },
+      "unparsed": [],
+      "heading": "联营 Joint-venture"
     }
   },
   "inventory": {
